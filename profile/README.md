@@ -11,16 +11,16 @@
 
 ### 1. Clone both repositories
 
-Start by cloning the `api` repository:
+Start by cloning the [`api`](https://github.com/modern-bank-cypher/api) repository:
 
 ```
-$ git clone https://github.com/Stitch-Crew/api.git modern-bank-cypher-api
+$ git clone https://github.com/modern-bank-cypher/api modern-bank-cypher-api
 ```
 
-Then, clone the `service` repository:$
+Then, clone the [`service`](https://github.com/modern-bank-cypher/service) repository:$
 
 ```
-$ git clone https://github.com/Stitch-Crew/service.git modern-bank-cypher-service
+$ git clone https://github.com/modern-bank-cypher/service modern-bank-cypher-service
 ```
 
 ### 2. Start the Service
