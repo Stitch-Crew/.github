@@ -17,7 +17,7 @@ Start by cloning the [`api`](https://github.com/modern-bank-cypher/api) reposito
 $ git clone https://github.com/modern-bank-cypher/api modern-bank-cypher-api
 ```
 
-Then, clone the [`service`](https://github.com/modern-bank-cypher/service) repository:$
+Then, clone the [`service`](https://github.com/modern-bank-cypher/service) repository:
 
 ```
 $ git clone https://github.com/modern-bank-cypher/service modern-bank-cypher-service
